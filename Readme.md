@@ -20,7 +20,9 @@ Baixo nível - mais prolixo do nível do hardware da máquina
 
 - Compiladas - escreve um código e ele será transformando em um binário, ele irá criar um executável 
 
-- Interpretadas -  a maioria das linguagens, ela possui um intermediário ( o interpretador, por exemplo o navegador ) vc escreve seu codigo em js, 
+- Interpretadas -  a maioria das linguagens, ela possui um intermediário ( o interpretador, por exemplo o navegador ) vc escreve seu codigo em js.
+
+
 ——————————————————————————————————————————————————————————————————————————
 # JAVASCRIPT 
 
@@ -47,11 +49,11 @@ Principal linguagem usada pelos navegadores
 . boolean, 
 . null e undefined 
 
-————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————
 . Number - Funciona tanto para números inteiros quanto para float ( ou seja, pode sair 10 ou 10.5 ) irá reconhecer normalmente 
 
 . Bigint - Pouco usado - para representar números inteiros muito grande. Para usar ele temos que colocar o “ n “ no final do número 
-————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————
 . String - texto  - mesmo esquema temos que usar aspas. 
 
 Podemos acessa pedaços	 da string exemplo
@@ -61,11 +63,11 @@ Gabriel[0]
 Ele irá imprimir apenas o G
 
 "Gabriel".length - irá imprimir a quantidade de letras. 
-————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————
 
 . Boolean - true e false. 
 
-————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————
 
 . null e undefined 
 
@@ -76,7 +78,7 @@ Undefined - é o nao definido, vc não atribui valor.
 
 
 
-————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————
 
 # TIPOS QUE NAO SAO PRIMITIVOS 
 
@@ -103,7 +105,7 @@ window.alert("Seu computador foi infectado com Vírus”).  <——— vai apare
 Ex: typeof console.error
 
 
-————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————
 # VARIAVEIS 
 
 
@@ -128,7 +130,7 @@ Pratica :
 Camel case - nomeDeUsuario - escrever dessa forma para difenciacao ( esse é o mais utilizado ) 
 
 Snake case = nome_de_usuario =  
-————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————
 OPERADORES
 
 Operadores - 
