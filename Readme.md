@@ -169,3 +169,12 @@ Concatenar - é com sinal de + - exemplo :   “João” + “ Júnior”
 
 
 Se for contaner um numero com string o JS irá transformar o numero em string
+
+
+——————————————————————————————
+
+# APLICANDO JAVASCRIPT EM UMA PÁGINA WEB
+
+Melhor forma é criando um arquivo com a extensão .js e referenciar ele dentro do nosso hmtl
+
+<script src= "./indexjs"></script>
