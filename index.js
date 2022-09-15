@@ -11,4 +11,4 @@ nome = window.prompt("Digite seu nome por favor: ")
 console.log(nome)
 
 let confirmacao = window.confirm("Confirma essa ação ?")
-console.log(confirmacao)
+console.log(confirmacao )
