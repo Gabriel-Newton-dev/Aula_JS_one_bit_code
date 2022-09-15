@@ -178,3 +178,5 @@ Se for contaner um numero com string o JS irá transformar o numero em string
 Melhor forma é criando um arquivo com a extensão .js e referenciar ele dentro do nosso hmtl
 
 <script src= "./indexjs"></script>
+
+Digamos que desejamos incluir um outro arquivo .js, lembre-se de que ele é lido na ordem que  colocamos no HTML.
