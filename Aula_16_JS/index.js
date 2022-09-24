@@ -1,6 +1,7 @@
 alert(
     "Sejam bem-vindos ao curso OneBitCode Full Stack!")
 
+const nome = prompt("Digite seu nome:")
 const idade= prompt("informe a sua idade:")
 
 if (idade >= 18 ){
