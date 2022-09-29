@@ -4,22 +4,22 @@ const tipo = prompt("Informe qual tipo de medidade que deseja realizar a convers
 
 switch (tipo) {
     case "a":
-        alert(valor * 1000)
+        alert("O valor de "+ valor+ " metros"+" convertido em milimetros é "+ valor * 1000 + " mm")
         break
     case "b":
-        alert(valor * 100)
+        alert("O valor de "+ valor+ " metros"+" convertido em centímetros é "+ valor * 100 + " cm")
         break
     case "c":
-        alert(valor * 10)
+        alert("O valor de "+ valor+ " metros"+" convertido em decímetro é "+ valor * 10 + " dm")
         break
     case "d":
-        alert(valor / 10)
+        alert("O valor de "+ valor+ " metros"+" convertido em decâmetro é "+ valor / 10+ " dam")
         break
     case "e":
-        alert(valor / 100)
+        alert("O valor de "+ valor+ " metros"+" convertido em hectometro é "+ valor / 100 + " hm")
         break
     case "f":
-        alert(valor / 1000)
+        alert("O valor de "+ valor+ " metros"+" convertido em quilômetro é "+ valor / 1000 +" Km")
         break
     default:
         alert("Opção inválida")
