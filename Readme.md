@@ -180,3 +180,22 @@ Melhor forma é criando um arquivo com a extensão .js e referenciar ele dentro 
 <script src= "./indexjs"></script>
 
 Digamos que desejamos incluir um outro arquivo .js, lembre-se de que ele é lido na ordem que  colocamos no HTML.
+
+--------------------------------
+
+## Estrutura de repetição While(enquanto)
+
+Ele executa um laço de repetição, parecido com if
+Ele fica repetindo enquanto determinada condição for verdadeira
+O break para a repetição em qualquer momento. 
+Ele precisa de uma condição falsa
+
+Sintaxe:
+
+while(condicao que vc quer){
+
+}
+
+
+
+-------------------------------------------
