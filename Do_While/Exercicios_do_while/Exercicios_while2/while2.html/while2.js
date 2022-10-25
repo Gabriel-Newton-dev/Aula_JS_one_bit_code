@@ -1,5 +1,7 @@
 let escolha
 
+let contato
+
 do {
     escolha = prompt("Qual carro você deseja comprar " + "\n1. Cruze" + "\n2. New Civic" + "\n3. Audi" + "\n4. Eclipse" + "\n5. Nenhuma das opções anteriores" )
 switch (escolha){
@@ -22,7 +24,8 @@ switch (escolha){
 }
 }
 while(escolha !== "5"){
-    alert("Desculpe não temos outros veículos disponiveís !")
+    contato = prompt("Deixe o seu contato por favor, assim que tivermos mais veículos entraremos em contato" + "\nNome e Telefone abaixo:")
+    // alert("Desculpe não temos outros veículos disponiveís !")
 }
 
 
